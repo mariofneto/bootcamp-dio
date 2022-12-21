@@ -8,3 +8,6 @@
  # Cases:
  ## nomes de classes, atributos e métodos sempre em **PascalCase**
  ## nomes de variáveis eu uso o **camelCase**
+
+ # Tipos inteiros:
+ ## usaremos o **Int** ou **Long**, eles são mais do que suficientes
