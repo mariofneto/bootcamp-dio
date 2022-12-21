@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jAfxMV+NVRWRbuVkp6mv0yl9TP+SMelWG2fvZ1AUhPNJco9Ipnp9V6U1H92Mk4yuKIjJt/tpsNYNLZ7ewog4bw==",
+  "dgSpecHash": "8zGoXUTj9uh8Z7spUdKbq5kemZ9+ZL8ZF57TcbRKxWOfojoaYxlfkZAmkkRDLsbV+Nz/EW6ZqbOneVpD5DfdTw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Bootcamp\\dio\\Cursos\\TiposDeOperadores\\TiposDeOperadores.csproj",
+  "projectFilePath": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\TiposDeOperadores\\TiposDeOperadores.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
