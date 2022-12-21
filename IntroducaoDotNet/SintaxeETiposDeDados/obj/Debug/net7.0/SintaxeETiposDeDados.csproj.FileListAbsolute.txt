@@ -1,0 +1,15 @@
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\SintaxeETiposDeDados.csproj.AssemblyReference.cache
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\SintaxeETiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\SintaxeETiposDeDados.AssemblyInfoInputs.cache
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\SintaxeETiposDeDados.AssemblyInfo.cs
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\SintaxeETiposDeDados.csproj.CoreCompileInputs.cache
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\bin\Debug\net7.0\SintaxeETiposDeDados.exe
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\bin\Debug\net7.0\SintaxeETiposDeDados.deps.json
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\bin\Debug\net7.0\SintaxeETiposDeDados.runtimeconfig.json
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\bin\Debug\net7.0\SintaxeETiposDeDados.dll
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\bin\Debug\net7.0\SintaxeETiposDeDados.pdb
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\SintaxeETiposDeDados.dll
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\refint\SintaxeETiposDeDados.dll
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\SintaxeETiposDeDados.pdb
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\SintaxeETiposDeDados.genruntimeconfig.cache
+C:\dev\Bootcamp\dio\Cursos\SintaxeETiposDeDados\obj\Debug\net7.0\ref\SintaxeETiposDeDados.dll
