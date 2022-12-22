@@ -25,3 +25,13 @@
 //     Console.WriteLine("Compra feita com sucesso!");
 // else
 //     Console.WriteLine($"Não temos essa quantidade de produto, temos apenas {quantidadeEstoque}");
+
+// =======================================
+//        Operadores Lógicos
+// =======================================
+
+//          OR(||), AND(&&) e NOT(!)
+//
+//  OR é uma condição ou outra, alguma tem que ser verdadeira
+//  AND é que as duas condições sejam verdadeiras
+//  NOT é o contrário da condição,se ela é true sera false, se for false sera true
