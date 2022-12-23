@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeOperadores", "TiposDeOperadores.csproj", "{1256F8C6-8458-4963-B57C-DB2CFCABB3EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeOperadores", "ExemploFundamentos\TiposDeOperadores.csproj", "{1256F8C6-8458-4963-B57C-DB2CFCABB3EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploFundamentos.Common", "ExemploFundamentos.Common\ExemploFundamentos.Common.csproj", "{C6F65CEA-B0DF-4D14-B05D-B71F0DFC05BC}"
 EndProject
