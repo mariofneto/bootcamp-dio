@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\OrganizandoUmProgramaCSharp\\OrganizandoUmProgramaCSharp.csproj",
-      "projectName": "OrganizandoUmProgramaCSharp",
-      "projectPath": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\OrganizandoUmProgramaCSharp\\OrganizandoUmProgramaCSharp.csproj",
+      "projectUniqueName": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\TiposDeOperadores\\TiposDeOperadores.csproj",
+      "projectName": "TiposDeOperadores",
+      "projectPath": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\TiposDeOperadores\\TiposDeOperadores.csproj",
       "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\OrganizandoUmProgramaCSharp\\obj\\",
+      "outputPath": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\TiposDeOperadores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
