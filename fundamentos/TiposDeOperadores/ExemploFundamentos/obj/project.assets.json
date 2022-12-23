@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ExemploFundamentos.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ExemploFundamentos.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExemploFundamentos.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ExemploFundamentos.Common/1.0.0": {
+      "type": "project",
+      "path": "../ExemploFundamentos.Common/ExemploFundamentos.Common.csproj",
+      "msbuildProject": "../ExemploFundamentos.Common/ExemploFundamentos.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ExemploFundamentos.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mario\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\TiposDeOperadores\\TiposDeOperadores.csproj",
+      "projectUniqueName": "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\TiposDeOperadores\\ExemploFundamentos\\TiposDeOperadores.csproj",
       "projectName": "TiposDeOperadores",
-      "projectPath": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\TiposDeOperadores\\TiposDeOperadores.csproj",
+      "projectPath": "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\TiposDeOperadores\\ExemploFundamentos\\TiposDeOperadores.csproj",
       "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Bootcamp\\dio\\Cursos\\IntroducaoDotNet\\TiposDeOperadores\\obj\\",
+      "outputPath": "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\TiposDeOperadores\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\TiposDeOperadores\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\TiposDeOperadores\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

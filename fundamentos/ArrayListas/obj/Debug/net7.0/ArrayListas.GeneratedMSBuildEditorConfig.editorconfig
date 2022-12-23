@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = TiposDeOperadores
-build_property.ProjectDir = C:\dev\Bootcamp\Cursos\fundamentos\TiposDeOperadores\ExemploFundamentos\
+build_property.RootNamespace = ArrayListas
+build_property.ProjectDir = C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\

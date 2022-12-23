@@ -1,0 +1,15 @@
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\bin\Debug\net7.0\ArrayListas.exe
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\bin\Debug\net7.0\ArrayListas.deps.json
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\bin\Debug\net7.0\ArrayListas.runtimeconfig.json
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\bin\Debug\net7.0\ArrayListas.dll
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\bin\Debug\net7.0\ArrayListas.pdb
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\ArrayListas.csproj.AssemblyReference.cache
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\ArrayListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\ArrayListas.AssemblyInfoInputs.cache
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\ArrayListas.AssemblyInfo.cs
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\ArrayListas.csproj.CoreCompileInputs.cache
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\ArrayListas.dll
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\refint\ArrayListas.dll
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\ArrayListas.pdb
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\ArrayListas.genruntimeconfig.cache
+C:\dev\Bootcamp\Cursos\fundamentos\ArrayListas\obj\Debug\net7.0\ref\ArrayListas.dll

@@ -13,3 +13,11 @@ C:\dev\Bootcamp\dio\Cursos\IntroducaoDotNet\TiposDeOperadores\obj\Debug\net7.0\r
 C:\dev\Bootcamp\dio\Cursos\IntroducaoDotNet\TiposDeOperadores\obj\Debug\net7.0\TiposDeOperadores.pdb
 C:\dev\Bootcamp\dio\Cursos\IntroducaoDotNet\TiposDeOperadores\obj\Debug\net7.0\TiposDeOperadores.genruntimeconfig.cache
 C:\dev\Bootcamp\dio\Cursos\IntroducaoDotNet\TiposDeOperadores\obj\Debug\net7.0\ref\TiposDeOperadores.dll
+C:\dev\Bootcamp\Cursos\fundamentos\TiposDeOperadores\ExemploFundamentos\obj\Debug\net7.0\TiposDeOperadores.csproj.AssemblyReference.cache
+C:\dev\Bootcamp\Cursos\fundamentos\TiposDeOperadores\ExemploFundamentos\obj\Debug\net7.0\TiposDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bootcamp\Cursos\fundamentos\TiposDeOperadores\ExemploFundamentos\obj\Debug\net7.0\TiposDeOperadores.AssemblyInfoInputs.cache
+C:\dev\Bootcamp\Cursos\fundamentos\TiposDeOperadores\ExemploFundamentos\obj\Debug\net7.0\TiposDeOperadores.AssemblyInfo.cs
+C:\dev\Bootcamp\Cursos\fundamentos\TiposDeOperadores\ExemploFundamentos\obj\Debug\net7.0\TiposDeOperadores.csproj.CoreCompileInputs.cache
+C:\dev\Bootcamp\Cursos\fundamentos\TiposDeOperadores\ExemploFundamentos\obj\Debug\net7.0\TiposDeOperadores.dll
+C:\dev\Bootcamp\Cursos\fundamentos\TiposDeOperadores\ExemploFundamentos\obj\Debug\net7.0\refint\TiposDeOperadores.dll
+C:\dev\Bootcamp\Cursos\fundamentos\TiposDeOperadores\ExemploFundamentos\obj\Debug\net7.0\TiposDeOperadores.pdb
