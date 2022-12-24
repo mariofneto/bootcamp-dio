@@ -32,14 +32,14 @@
 //    Sintaxe Básica List (Um array melhorado)
 // =============================================
 
-var pessoa = new List<string>();
+// var pessoa = new List<string>();
 
-pessoa.Add("Mário");
-pessoa.Add("Odila");
-pessoa.Add("Julia");
+// pessoa.Add("Mário");
+// pessoa.Add("Odila");
+// pessoa.Add("Julia");
 
-foreach(var nomePessoa in pessoa)
-    Console.WriteLine(nomePessoa.ToLower().Contains("i")); // saber se cada nome tem a letra "i"
+// foreach(var nomePessoa in pessoa)
+//     Console.WriteLine(nomePessoa.ToLower().Contains("i")); // saber se cada nome tem a letra "i"
 
 
 

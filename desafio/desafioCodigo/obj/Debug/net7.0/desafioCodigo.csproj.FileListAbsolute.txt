@@ -1,0 +1,15 @@
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\bin\Debug\net7.0\desafioCodigo.exe
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\bin\Debug\net7.0\desafioCodigo.deps.json
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\bin\Debug\net7.0\desafioCodigo.runtimeconfig.json
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\bin\Debug\net7.0\desafioCodigo.dll
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\bin\Debug\net7.0\desafioCodigo.pdb
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\desafioCodigo.csproj.AssemblyReference.cache
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\desafioCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\desafioCodigo.AssemblyInfoInputs.cache
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\desafioCodigo.AssemblyInfo.cs
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\desafioCodigo.csproj.CoreCompileInputs.cache
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\desafioCodigo.dll
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\refint\desafioCodigo.dll
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\desafioCodigo.pdb
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\desafioCodigo.genruntimeconfig.cache
+C:\dev\Bootcamp\Cursos\desafio\desafioCodigo\obj\Debug\net7.0\ref\desafioCodigo.dll
