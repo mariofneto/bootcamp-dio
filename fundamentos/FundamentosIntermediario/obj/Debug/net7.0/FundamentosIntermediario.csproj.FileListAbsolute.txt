@@ -1,0 +1,15 @@
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\bin\Debug\net7.0\FundamentosIntermediario.exe
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\bin\Debug\net7.0\FundamentosIntermediario.deps.json
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\bin\Debug\net7.0\FundamentosIntermediario.runtimeconfig.json
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\bin\Debug\net7.0\FundamentosIntermediario.dll
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\bin\Debug\net7.0\FundamentosIntermediario.pdb
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.csproj.AssemblyReference.cache
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.AssemblyInfoInputs.cache
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.AssemblyInfo.cs
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.csproj.CoreCompileInputs.cache
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.dll
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\refint\FundamentosIntermediario.dll
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.pdb
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.genruntimeconfig.cache
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\ref\FundamentosIntermediario.dll
