@@ -10,6 +10,7 @@ namespace FundamentosIntermediario.Models
     public class Pessoa
     {
         private string _nome;
+        private int _idade;
         public string Nome
         {
             get => _nome.ToUpper();
@@ -22,7 +23,8 @@ namespace FundamentosIntermediario.Models
                 _nome = value;
             }
         }
-        private int _idade;
+        public string Sobrenome { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
         public int Idade
         {
             get => _idade;
@@ -38,7 +40,7 @@ namespace FundamentosIntermediario.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+            Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
     }
 }
