@@ -24,9 +24,9 @@ namespace FundamentosIntermediario.Models
         public void ListarAlunos()
         {
             Console.WriteLine($"Alunos do curso de {Nome}\n");
-            foreach (var aluno in Alunos)
+            for (int contador = 0; contador < Alunos.Count; contador++)
             {
-                Console.WriteLine($"{aluno.NomeCompleto}");
+                Console.WriteLine($"Nº{contador+1} - {Alunos[contador].NomeCompleto}");
             }
             Console.WriteLine("------------------------");
         }
