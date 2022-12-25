@@ -9,6 +9,11 @@ namespace FundamentosIntermediario.Models
     // [GET/SET PRIVADOS] https://www.w3schools.com/cs/cs_properties.php
     public class Pessoa
     {
+        public Pessoa(string nome, string sobrenome)
+        {
+            this.Nome = nome;
+            this.Sobrenome = sobrenome;
+        }
         private string _nome;
         private int _idade;
         public string Nome

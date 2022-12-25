@@ -7,6 +7,11 @@ namespace FundamentosIntermediario.Models
 {
     public class Curso
     {
+        public Curso(string nome, List<Pessoa> alunos)
+        {
+            this.Nome = nome;
+            this.Alunos = alunos;
+        }
         public string Nome { get; set; }
         public List<Pessoa> Alunos { get; set; }
 
@@ -18,15 +23,16 @@ namespace FundamentosIntermediario.Models
 
         public void ListarAlunos()
         {
-            Console.WriteLine($"Alunos do curso de {Nome}");
+            Console.WriteLine($"Alunos do curso de {Nome}\n");
             foreach (var aluno in Alunos)
             {
                 Console.WriteLine($"{aluno.NomeCompleto}");
             }
+            Console.WriteLine("------------------------");
         }
         public void ObterQuantidadeDeAlunosMatriculados()
         {
-            Console.WriteLine("Temos essa quantidade de alunos: " + Alunos.Count() + " alunos");
+            Console.WriteLine("Temos essa quantidade de alunos no curso de " + Nome + ": " + Alunos.Count() + " alunos");
         }
     }
 }
