@@ -23,16 +23,17 @@ namespace FundamentosIntermediario.Models
 
         public void ListarAlunos()
         {
+            Console.WriteLine("------------------------");
             Console.WriteLine($"Alunos do curso de {Nome}\n");
             for (int contador = 0; contador < Alunos.Count; contador++)
             {
-                Console.WriteLine($"Nº{contador+1} - {Alunos[contador].NomeCompleto}");
+                Console.WriteLine($"Nº{contador + 1} - {Alunos[contador].NomeCompleto}");
             }
             Console.WriteLine("------------------------");
         }
         public void ObterQuantidadeDeAlunosMatriculados()
         {
-            Console.WriteLine("Temos essa quantidade de alunos no curso de " + Nome + ": " + Alunos.Count() + " alunos");
+            Console.WriteLine($"Temos essa quantidade de alunos no curso de {Nome}: {Alunos.Count()} alunos\n");
         }
     }
 }
