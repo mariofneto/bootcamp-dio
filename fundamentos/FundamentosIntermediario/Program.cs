@@ -1,5 +1,4 @@
-﻿using System.Globalization;
-// using FundamentosIntermediario.Models;
+﻿using FundamentosIntermediario.Models;
 // Console.Clear();
 // var p1 = new Pessoa("Mário", "Neto");
 // var p2 = new Pessoa("Eduardo", "Neves");
@@ -56,18 +55,90 @@
 // Console.WriteLine(dataAtual);
 // Console.WriteLine(dataAtual.ToString("[dd/MM/yyyy]-[HH:mm:ss]"));
 
-try
-{
-    string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+// try
+// {
+//     Console.Clear();
+//     string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
 
-    foreach (var linha in linhas)
-    {
-        Console.WriteLine(linha);
-    }
-}
-catch (Exception naoEncontrado)
+//     foreach (var linha in linhas)
+//     {
+//         Console.WriteLine($"Linha {linha}");
+//     }
+// }
+// catch (FileNotFoundException ex)
+// {
+//     Console.WriteLine($"[ERRO] Arquivo não encontrado. {ex.Message}");
+// }
+// catch (DirectoryNotFoundException ex)
+// {
+//     Console.WriteLine($"[ERRO] Diretório não encontrado. {ex.Message}");
+// }
+// catch (Exception ex)
+// {
+//     Console.WriteLine($"[ERRO] Ocorreu uma exceção genérica. {ex.Message}");
+// }
+// finally
+// {
+//     Console.WriteLine("---------------------------");
+//     Console.WriteLine("Dando erro ou não sempre vai chegar aqui no [finally]");
+// }
+
+// var exemplo = new ExemploExcecao();
+
+// exemplo.Metodo1();
+
+// Fila no C# [FIFO]
+
+// var fila = new Queue<int>();
+
+// fila.Enqueue(11);
+// fila.Enqueue(22);
+// fila.Enqueue(33);
+// fila.Enqueue(44);
+
+// foreach (var item in fila)
+//     Console.WriteLine(item);
+
+// Console.WriteLine("------------------------");
+
+// fila.Dequeue();
+// fila.Dequeue();
+
+// foreach (var item in fila)
+//     Console.WriteLine(item);
+
+// Pilha no C# [LIFO]
+
+// var pilha = new Stack<int>();
+
+// pilha.Push(2);
+// pilha.Push(54);
+// pilha.Push(232);
+// pilha.Push(21);
+
+// foreach(var item in pilha)
+//     Console.WriteLine(item);
+
+// Console.WriteLine("------------------------");
+
+// pilha.Pop();
+// pilha.Pop();
+
+// foreach(var item in pilha)
+//     Console.WriteLine(item);
+
+// Dictionary no C# []
+
+var estados = new Dictionary<string, string>();
+
+estados.Add("SP", "São Paulo");
+estados.Add("MG", "Minas Gerais");
+estados.Add("RJ", "Rio De Janeiro");
+
+foreach (var estado in estados)
 {
-    Console.WriteLine($"[ERRO] Arquivo não encontrado, caminho inválido! {naoEncontrado.Message}");
+    Console.WriteLine(estado);
 }
+
 
 
