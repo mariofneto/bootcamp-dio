@@ -50,9 +50,11 @@
 // var porcentagem = .3421;
 // Console.WriteLine(porcentagem.ToString("P"));
 
-var dataAtual = DateTime.Now;
-
-Console.WriteLine(dataAtual.ToString("[dd/MM/yyyy]-[HH:mm:ss]"));
+// var dataString = "2022-04-20 18:00";
+// var dataAtual = DateTime.Now;
+// var dataConvertida = DateTime.TryParse(dataString, out dataAtual);
+// Console.WriteLine(dataAtual);
+// Console.WriteLine(dataAtual.ToString("[dd/MM/yyyy]-[HH:mm:ss]"));
 
 
 
