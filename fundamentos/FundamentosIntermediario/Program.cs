@@ -56,5 +56,18 @@
 // Console.WriteLine(dataAtual);
 // Console.WriteLine(dataAtual.ToString("[dd/MM/yyyy]-[HH:mm:ss]"));
 
+try
+{
+    string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+
+    foreach (var linha in linhas)
+    {
+        Console.WriteLine(linha);
+    }
+}
+catch (Exception naoEncontrado)
+{
+    Console.WriteLine($"[ERRO] Arquivo não encontrado, caminho inválido! {naoEncontrado.Message}");
+}
 
 
