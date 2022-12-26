@@ -127,18 +127,27 @@
 // foreach(var item in pilha)
 //     Console.WriteLine(item);
 
-// Dictionary no C# []
+// Dictionary no C# [Garante que suas chaves sejam unicas]
 
-var estados = new Dictionary<string, string>();
+// var estados = new Dictionary<string, string>();
 
-estados.Add("SP", "São Paulo");
-estados.Add("MG", "Minas Gerais");
-estados.Add("RJ", "Rio De Janeiro");
+// estados.Add("SP", "São Paulo");
+// estados.Add("MG", "Minas Gerais");
+// estados.Add("RJ", "Rio De Janeiro");
 
-foreach (var estado in estados)
-{
-    Console.WriteLine(estado);
-}
+// foreach (var estado in estados)
+//     Console.WriteLine($"Chave: {estado.Key}, Valor: {estado.Value}");
+
+// Console.WriteLine("----------");
+
+// estados.Remove("MG");
+// estados["SP"] = "São Paulo - valor alterado";
+
+// foreach (var estado in estados)
+//     Console.WriteLine($"Chave: {estado.Key}, Valor: {estado.Value}");
+
+
+
 
 
 
