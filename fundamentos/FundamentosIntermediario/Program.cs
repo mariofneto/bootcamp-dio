@@ -146,12 +146,16 @@
 // foreach (var estado in estados)
 //     Console.WriteLine($"Chave: {estado.Key}, Valor: {estado.Value}");
 
-(int, string, string) tupla = (10, "Mário", "Neto");
+// Exemplo de Tupla [São variáveis que armazena muitos items se for requerido]
 
-Console.WriteLine(tupla);
-Console.WriteLine(tupla.Item1);
-Console.WriteLine(tupla.Item2);
-Console.WriteLine(tupla.Item3);
+// (int, string, string, decimal) tupla = (10, "Mário", "Neto", 1.77M);
+
+// Console.WriteLine($"Id: {tupla.Item1}");
+// Console.WriteLine($"Nome: {tupla.Item2}");
+// Console.WriteLine($"Sobrenome: {tupla.Item3}");
+// Console.WriteLine($"Altura: {tupla.Item4}");
+
+
 
 
 
