@@ -2,21 +2,25 @@
   {
     "Id": 1,
     "Produto": "Martelo",
-    "Preco": 25.00
+    "Preco": 25.00,
+    "DataVenda": "2022-12-27T10:49:18.4430813-03:00"
   },
   {
     "Id": 2,
     "Produto": "Pregos",
-    "Preco": 2.00
+    "Preco": 2.00,
+    "DataVenda": "2022-12-27T10:49:18.4430813-03:00"
   },
   {
     "Id": 3,
     "Produto": "Serrotes",
-    "Preco": 40.00
+    "Preco": 40.00,
+    "DataVenda": "2022-12-27T10:49:18.4430813-03:00"
   },
   {
     "Id": 4,
     "Produto": "Porcas",
-    "Preco": 28.00
+    "Preco": 28.00,
+    "DataVenda": "2022-12-27T10:49:18.4430813-03:00"
   }
 ]

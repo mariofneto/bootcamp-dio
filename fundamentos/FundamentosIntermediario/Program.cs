@@ -197,25 +197,38 @@ using Newtonsoft.Json;
 // Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "impar"));
 
 
-// Serialização JSON
+// Usando [JSON] Serializando
 
+// var dataAtual = DateTime.Now;
 
-var vendas = new List<Venda>();
+// var vendas = new List<Venda>();
 
-var venda1 = new Venda(1, "Martelo", 25.00M);
-var venda2 = new Venda(2, "Pregos", 2.00M);
-var venda3 = new Venda(3, "Serrotes", 40.00M);
-var venda4 = new Venda(4, "Porcas", 28.00M);
+// var venda1 = new Venda(1, "Martelo", 25.00M, dataAtual);
+// var venda2 = new Venda(2, "Pregos", 2.00M, dataAtual);
+// var venda3 = new Venda(3, "Serrotes", 40.00M, dataAtual);
+// var venda4 = new Venda(4, "Porcas", 28.00M, dataAtual);
 
-vendas.Add(venda1);
-vendas.Add(venda2);
-vendas.Add(venda3);
-vendas.Add(venda4);
+// vendas.Add(venda1);
+// vendas.Add(venda2);
+// vendas.Add(venda3);
+// vendas.Add(venda4);
 
-var listaSerializada = JsonConvert.SerializeObject(vendas, Formatting.Indented);
+// var listaSerializada = JsonConvert.SerializeObject(vendas, Formatting.Indented);
 
-File.WriteAllText("Arquivos/vendas.json", listaSerializada);
+// File.WriteAllText("Arquivos/vendas.json", listaSerializada);
 
-Console.WriteLine(listaSerializada);
+// Console.WriteLine(listaSerializada);
+
+// Usando [JSON] Deserializando
+
+// var conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// var listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+// foreach (var venda in listaVenda)
+// {
+//     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preco: {venda.Preco}, Data: {venda.DataVenda}");
+// }
+
 
 
