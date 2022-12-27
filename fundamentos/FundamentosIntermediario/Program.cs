@@ -1,4 +1,5 @@
 ﻿using FundamentosIntermediario.Models;
+using Newtonsoft.Json;
 // Console.Clear();
 // var p1 = new Pessoa("Mário", "Neto");
 // var p2 = new Pessoa("Eduardo", "Neves");
@@ -196,8 +197,25 @@
 // Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "impar"));
 
 
+// Serialização JSON
 
 
+var vendas = new List<Venda>();
 
+var venda1 = new Venda(1, "Martelo", 25.00M);
+var venda2 = new Venda(2, "Pregos", 2.00M);
+var venda3 = new Venda(3, "Serrotes", 40.00M);
+var venda4 = new Venda(4, "Porcas", 28.00M);
+
+vendas.Add(venda1);
+vendas.Add(venda2);
+vendas.Add(venda3);
+vendas.Add(venda4);
+
+var listaSerializada = JsonConvert.SerializeObject(vendas, Formatting.Indented);
+
+File.WriteAllText("Arquivos/vendas.json", listaSerializada);
+
+Console.WriteLine(listaSerializada);
 
 

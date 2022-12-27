@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj": {}
+    "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj": {}
   },
   "projects": {
-    "c:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj": {
+    "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj",
+        "projectUniqueName": "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj",
         "projectName": "FundamentosIntermediario",
-        "projectPath": "c:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj",
+        "projectPath": "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\obj\\",
+        "outputPath": "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"

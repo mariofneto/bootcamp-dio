@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJ0z7qcJnOEFpU81EfQhMd5VxjqX1KU32FKmPfSxv9mj8DcQow5Mu2ajqxAQqr457gXwJvuCDeYhsAESeOXzbA==",
+  "dgSpecHash": "td1tE42C4EFBaGu8dWO1n40+G4If0DhAwlr6/fjf4gd3ontxugYraPgAy+xUF3zZYRoA564Cixnq9Aj4sJ3/ew==",
   "success": true,
-  "projectFilePath": "c:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj",
+  "projectFilePath": "C:\\dev\\Bootcamp\\Cursos\\fundamentos\\FundamentosIntermediario\\FundamentosIntermediario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mario\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],

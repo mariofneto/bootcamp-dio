@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Martelo",
+    "Preco": 25.00
+  },
+  {
+    "Id": 2,
+    "Produto": "Pregos",
+    "Preco": 2.00
+  },
+  {
+    "Id": 3,
+    "Produto": "Serrotes",
+    "Preco": 40.00
+  },
+  {
+    "Id": 4,
+    "Produto": "Porcas",
+    "Preco": 28.00
+  }
+]

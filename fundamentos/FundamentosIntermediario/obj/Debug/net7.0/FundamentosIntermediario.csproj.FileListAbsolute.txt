@@ -13,3 +13,5 @@ C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\ref
 C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.pdb
 C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.genruntimeconfig.cache
 C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\ref\FundamentosIntermediario.dll
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\dev\Bootcamp\Cursos\fundamentos\FundamentosIntermediario\obj\Debug\net7.0\FundamentosIntermediario.csproj.CopyComplete
