@@ -155,22 +155,48 @@
 // Console.WriteLine($"Sobrenome: {tupla.Item3}");
 // Console.WriteLine($"Altura: {tupla.Item4}");
 
-var ler = new LeituraArquivo();
+// var ler = new LeituraArquivo();
 
-var (sucesso, linhasArquivo, _) = ler.LerArquivo("Arquivos/arquivoLeitura.txt");
+// var (sucesso, linhasArquivo, _) = ler.LerArquivo("Arquivos/arquivoLeitura.txt");
 
-if (sucesso)
-{
-    // Console.WriteLine($"Quantidade de linhas no arquivo: {quantidadeLinhas}");
-    foreach (var linha in linhasArquivo)
-    {
-        Console.WriteLine(linha);
-    }
-}
-else
-{
-    Console.WriteLine("Não foi possível ler o arquivo");
-}
+// if (sucesso)
+// {
+//     // Console.WriteLine($"Quantidade de linhas no arquivo: {quantidadeLinhas}");
+//     foreach (var linha in linhasArquivo)
+//     {
+//         Console.WriteLine(linha);
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("Não foi possível ler o arquivo");
+// }
+
+// IF NÃO TERNÁRIO
+
+// if(numero % 2 == 0)
+// {
+//     Console.Clear();
+//     Console.Write($"{numero} é par");
+// }
+// else
+// {
+//     Console.Clear();
+//     Console.Write($"{numero} é impar");
+// }
+
+
+// IF TERNÁRIO
+
+// var numero = 20;
+// var ehPar = false;
+
+// ehPar = numero % 2 == 0;
+
+// Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "impar"));
+
+
+
 
 
 
