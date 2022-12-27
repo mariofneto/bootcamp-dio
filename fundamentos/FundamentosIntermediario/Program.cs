@@ -146,6 +146,13 @@
 // foreach (var estado in estados)
 //     Console.WriteLine($"Chave: {estado.Key}, Valor: {estado.Value}");
 
+(int, string, string) tupla = (10, "Mário", "Neto");
+
+Console.WriteLine(tupla);
+Console.WriteLine(tupla.Item1);
+Console.WriteLine(tupla.Item2);
+Console.WriteLine(tupla.Item3);
+
 
 
 
