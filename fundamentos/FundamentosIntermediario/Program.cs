@@ -155,9 +155,22 @@
 // Console.WriteLine($"Sobrenome: {tupla.Item3}");
 // Console.WriteLine($"Altura: {tupla.Item4}");
 
+var ler = new LeituraArquivo();
 
+var (sucesso, linhasArquivo, _) = ler.LerArquivo("Arquivos/arquivoLeitura.txt");
 
-
+if (sucesso)
+{
+    // Console.WriteLine($"Quantidade de linhas no arquivo: {quantidadeLinhas}");
+    foreach (var linha in linhasArquivo)
+    {
+        Console.WriteLine(linha);
+    }
+}
+else
+{
+    Console.WriteLine("Não foi possível ler o arquivo");
+}
 
 
 
