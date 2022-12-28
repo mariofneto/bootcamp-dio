@@ -230,5 +230,20 @@ using Newtonsoft.Json;
 //     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preco: {venda.Preco}, Data: {venda.DataVenda}");
 // }
 
+// bool? desejarReceberEmail = null;
+
+// var saudacao = desejarReceberEmail.HasValue ? "Fala comigo true" : "Fala comigo null";
+// Console.WriteLine(saudacao);
+
+// Tipo Dynamic
+
+// dynamic variavelDinamica = 4;
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+// variavelDinamica = "testando";
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+// variavelDinamica = true;
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+
 
 
