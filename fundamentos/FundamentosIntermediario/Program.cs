@@ -289,5 +289,38 @@ using Newtonsoft.Json;
 
 // Stack => quando declaro uma variável ela vai para o Stack(é armazenado o nome e o valor que representa)
 
-// Heap => armazena o próprio objeto do tipo mais complexo(aonde meu objeto fica)
+// Heap => armazena o próprio objeto do tipo mais complexo(objeto referencia fica na stack e o original na heap)
+
+// Garbage Collector => é quem limpa a memória Heap
+
+// Atribuindo tipo de valor
+// // um cria uma cópia do outro
+
+// var a = 5;
+// var b = a;
+
+// Console.WriteLine("Antes da alteração");
+// Console.WriteLine($"A = {a} e B = {b}");
+
+// a = 10;
+
+// Console.WriteLine("Depois da alteração");
+// Console.WriteLine($"A = {a} e B = {b}");
+
+// // Atribuindo tipo de referência
+// // os dois estão apontando para a mesma referência
+
+// var array = new List<int>();
+// array.Add(10);
+// array.Add(55);
+
+// var array2 = array;
+
+// array.Add(4);
+// array.Add(666);
+
+// foreach (var valor in array2)
+// {
+//     Console.WriteLine(valor);
+// }
 
