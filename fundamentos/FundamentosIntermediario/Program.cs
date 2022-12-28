@@ -282,3 +282,12 @@ using Newtonsoft.Json;
 // salarioBom = salario.SalarioBom();
 
 // Console.WriteLine(salarioBom);
+
+// Conceitos Teóricos
+
+// Stack e Heap
+
+// Stack => quando declaro uma variável ela vai para o Stack(é armazenado o nome e o valor que representa)
+
+// Heap => armazena o próprio objeto do tipo mais complexo(aonde meu objeto fica)
+
