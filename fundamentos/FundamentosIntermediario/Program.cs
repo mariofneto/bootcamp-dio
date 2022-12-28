@@ -1,4 +1,5 @@
-﻿using FundamentosIntermediario.Models;
+﻿using System.Globalization;
+using FundamentosIntermediario.Models;
 using Newtonsoft.Json;
 // Console.Clear();
 // var p1 = new Pessoa("Mário", "Neto");
@@ -266,4 +267,18 @@ using Newtonsoft.Json;
 // Console.WriteLine(arrayDeInt[1]);
 // Console.WriteLine(arrayDeInt[2]);
 
+// Métodos de extensão
 
+// int numero = 15;
+// bool par = false;
+
+// par = numero.EhPar();
+
+// Console.WriteLine(par);
+
+// decimal salario = 2000M;
+// bool salarioBom = false;
+
+// salarioBom = salario.SalarioBom();
+
+// Console.WriteLine(salarioBom);
