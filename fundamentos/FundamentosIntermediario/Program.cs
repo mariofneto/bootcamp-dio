@@ -244,6 +244,26 @@ using Newtonsoft.Json;
 // variavelDinamica = true;
 // Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
 
+// Tipos Genéricos <T>
 
+// var arrayDeStrings = new MeuArray<string>();
+
+// arrayDeStrings.AdicionarElemento("Mário");
+// arrayDeStrings.AdicionarElemento("Júlia");
+// arrayDeStrings.AdicionarElemento("Odila");
+
+// Console.WriteLine(arrayDeStrings[0]);
+// Console.WriteLine(arrayDeStrings[1]);
+// Console.WriteLine(arrayDeStrings[2]);
+
+// var arrayDeInt = new MeuArray<int>();
+
+// arrayDeInt.AdicionarElemento(22);
+// arrayDeInt.AdicionarElemento(554);
+// arrayDeInt.AdicionarElemento(96);
+
+// Console.WriteLine(arrayDeInt[0]);
+// Console.WriteLine(arrayDeInt[1]);
+// Console.WriteLine(arrayDeInt[2]);
 
 
