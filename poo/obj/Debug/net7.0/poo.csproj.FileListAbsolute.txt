@@ -1,0 +1,15 @@
+C:\dev\Bootcamp\Cursos\poo\bin\Debug\net7.0\poo.exe
+C:\dev\Bootcamp\Cursos\poo\bin\Debug\net7.0\poo.deps.json
+C:\dev\Bootcamp\Cursos\poo\bin\Debug\net7.0\poo.runtimeconfig.json
+C:\dev\Bootcamp\Cursos\poo\bin\Debug\net7.0\poo.dll
+C:\dev\Bootcamp\Cursos\poo\bin\Debug\net7.0\poo.pdb
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\poo.csproj.AssemblyReference.cache
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\poo.AssemblyInfoInputs.cache
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\poo.AssemblyInfo.cs
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\poo.csproj.CoreCompileInputs.cache
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\poo.dll
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\refint\poo.dll
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\poo.pdb
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\poo.genruntimeconfig.cache
+C:\dev\Bootcamp\Cursos\poo\obj\Debug\net7.0\ref\poo.dll
