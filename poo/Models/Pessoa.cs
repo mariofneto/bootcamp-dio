@@ -12,21 +12,16 @@ namespace poo.Models
             Nome = nome;
             Idade = idade;
         }
+        public Pessoa()
+        {
+           
+        }
         public string Nome { get; set; }
         public int Idade { get; set; }
 
-        public void Apresentar()
+        public virtual void Apresentar()
         {
-            var amigo = $@"
-                                _
-                               |_|
-                             ___|___
-                                |
-                                |
-                                |
-                               / \
-                              /   \";
-            Console.Write($"Olá, meu nome é {Nome} e tenho {Idade} anos. {amigo}");
+            Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos.");
 
         }
     }
