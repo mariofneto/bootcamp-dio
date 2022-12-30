@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace poo.Models
 {
-    public class Professor : Pessoa
+    public sealed class Professor : Pessoa
     {
         public Professor(string nome, int idade, decimal salario)
         {
@@ -16,7 +16,7 @@ namespace poo.Models
 
         public decimal Salario { get; set; }
 
-        public override void Apresentar()
+        public sealed override void Apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome}. Sou um Professor, meu salário é igual a {Salario}");
         }

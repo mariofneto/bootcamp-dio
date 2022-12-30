@@ -1,0 +1,13 @@
+private so dentro da classe que pode ocorrer alterações
+
+protected é contra alterações externas mas as classes filhas podem alterar
+
+abstract não pode ser instanciado como new Exemplo()
+
+sealed não deixar ninguem herdar dela
+
+class object é a mãe de geral
+
+interfaces não pode ser instanciadas, é como se fosse um contrato que as classes 
+que implementarem essa interface, é obrigada a implementar os métodos também.
+Como se fosse um "contrato de negócio".

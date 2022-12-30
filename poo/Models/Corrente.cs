@@ -11,5 +11,9 @@ namespace poo.Models
         {
             saldo += valor;
         }
+        public void Sacar(decimal valor)
+        {
+            saldo -= valor;
+        }
     }
 }

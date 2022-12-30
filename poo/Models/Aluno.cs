@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace poo.Models
 {
-    public class Aluno : Pessoa
+    public sealed class Aluno : Pessoa
     {
         public Aluno(string nome, int idade, double nota)
         {
@@ -15,7 +15,7 @@ namespace poo.Models
         }
         public double Nota { get; set; }
 
-        public override void Apresentar()
+        public sealed override void Apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome}. Sou um Aluno de nota {Nota}.");
         }
