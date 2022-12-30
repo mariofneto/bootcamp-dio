@@ -8,9 +8,9 @@ namespace poo.Models
 {
     public class CalculadoraComum : ICalculadora
     {
-        public double Dividir(int num1, int num2)
+        public double Dividir(double num1, double num2)
         {
-            return num1 / num2;
+            return Math.Round(num1 / num2, 1);
         }
 
         public int Multiplicar(int num1, int num2)
