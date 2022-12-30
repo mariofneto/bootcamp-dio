@@ -18,6 +18,12 @@
 // var professor = new Professor("Eduardo", 54, 1500.00M);
 // professor.Apresentar();
 
+var cc = new Corrente();
+cc.Creditar(1000);
+cc.ExibirSaldo();
+cc.Creditar(600);
+cc.ExibirSaldo();
+
 
 
 
