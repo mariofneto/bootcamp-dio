@@ -1,0 +1,2 @@
+esse modulo vai ser feito inteiro no Sql server management studio, não irei usar o vscode.
+
