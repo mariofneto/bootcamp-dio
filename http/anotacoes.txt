@@ -14,6 +14,19 @@ HTTP CAMADA DE APLICAÇÃO
 
 Métodos seguros: GET/HEAD/OPTION (SÓ TEM OPERAÇÃO DE LEITURA)
 
+O que são COOKIES?
+
+	Pequenos pedaços ou blocos de dados criados e utilizados pelo servidor
+	para persistir dados no dispositivo do cliente.
+	
+	Existem dois tipos Cookies de sessão e Cookies de persistentes
+
+Web Cache?
+	Também chamado de Proxy Server.
+	é um intermediário dos request, se ele não tem a informação, ele faz
+	um request em outro lugar.
+
+
 
 	
 
