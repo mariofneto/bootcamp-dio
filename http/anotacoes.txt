@@ -1,7 +1,6 @@
 Iniciando Curso dos protocolos HTTP/HTTPS
 
 HyperText Transfer Protocol (HTTP) -> faz o comunicação de cliente servidor
-
 	Cliente -> mensagens - request http
 	Servidor -> mensagens - responde http
 	Arquitetura Client-server
@@ -9,6 +8,13 @@ HyperText Transfer Protocol (HTTP) -> faz o comunicação de cliente servidor
 
 HTTP Entity Body -> XML ou JSON
 	Serialização, Comunicação e Metadados
+
+TCP CAMADA DE TRANSPORTE
+HTTP CAMADA DE APLICAÇÃO
+
+Métodos seguros: GET/HEAD/OPTION (SÓ TEM OPERAÇÃO DE LEITURA)
+
+
 	
 
 
