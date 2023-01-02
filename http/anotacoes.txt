@@ -29,6 +29,28 @@ Web Cache?
 Servidores/Sistemas: APACHE, XAMPP, NGINX.
 
 APACHE -> Contribuição com WWW, OpenSource e Free
+		Modular, dinâmico e carregável
+
+XAMPP -> Pacote/Ambiente que utiliza o APACHE
+		Teste e desenvolvimento sem acesso a internet.
+
+NGINX -> Servidor,Web Server, Proxy Reverso,Suporte a HTTP 2.0
+
+Protocolo SSL(Secure Socket Layer)
+	Permiti que so sejam lidos com quem tem a chave relacionada
+
+	Operações do SSL:
+				Verificação de Autenticidade
+
+HTTP + SSL = HTTPS
+
+WEB SOCKET -> Roda encapsulado em HTTP
+	
+	
+
+
+
+
 
 
 
