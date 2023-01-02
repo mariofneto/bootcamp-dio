@@ -26,6 +26,10 @@ Web Cache?
 	é um intermediário dos request, se ele não tem a informação, ele faz
 	um request em outro lugar.
 
+Servidores/Sistemas: APACHE, XAMPP, NGINX.
+
+APACHE -> Contribuição com WWW, OpenSource e Free
+
 
 
 	
