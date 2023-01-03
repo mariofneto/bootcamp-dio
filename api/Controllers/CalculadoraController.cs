@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers
 {
+    [ApiController]
     [Route("Calculadora")]
     public class CalculadoraController : ControllerBase
     {
