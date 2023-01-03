@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using api.Context;
 using api.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace api.Controllers
 {
@@ -37,6 +38,11 @@ namespace api.Controllers
         public IActionResult ObterPorNome(string nome)
         {
             var contatos = _context.Contatos.Where(x => x.Name.Contains(nome));
+            if (nome == null)
+            {
+                var todosContatos = _context.Contatos.ToList();
+                return Ok(todosContatos);
+            }
             return Ok(contatos);
         }
 
