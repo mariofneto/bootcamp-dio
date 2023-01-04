@@ -59,5 +59,33 @@ namespace mvc.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        public IActionResult Detalhes(int id)
+        {
+            var contato = _context.Contatos.Find(id);
+
+            if (contato == null)
+                return RedirectToAction(nameof(Index));
+            return View(contato);
+        }
+
+        public IActionResult Deletar(int id)
+        {
+            var contato = _context.Contatos.Find(id);
+
+            if (contato == null)
+                return RedirectToAction(nameof(Index));
+            return View(contato);
+        }
+        [HttpPost]
+        public IActionResult Deletar(Contato contato)
+        {
+            var contatoBanco = _context.Contatos.Find(contato.Id);
+
+            _context.Remove(contatoBanco);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

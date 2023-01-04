@@ -16595,6 +16595,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\dev\\Bootcamp\\Cursos\\mvc\\Views\\Contato\\Deletar.cshtml",
+      "TargetPath": "Views\\Contato\\Deletar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\dev\\Bootcamp\\Cursos\\mvc\\Views\\Contato\\Criar.cshtml",
       "TargetPath": "Views\\Contato\\Criar.cshtml",
       "FileKind": "mvc"
