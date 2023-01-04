@@ -16555,6 +16555,11 @@
   "RootNamespace": "mvc",
   "Documents": [
     {
+      "FilePath": "c:\\dev\\Bootcamp\\Cursos\\mvc\\Views\\Contato\\Index.cshtml",
+      "TargetPath": "Views\\Contato\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\dev\\Bootcamp\\Cursos\\mvc\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -16577,6 +16582,11 @@
     {
       "FilePath": "c:\\dev\\Bootcamp\\Cursos\\mvc\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dev\\Bootcamp\\Cursos\\mvc\\Views\\Contato\\Criar.cshtml",
+      "TargetPath": "Views\\Contato\\Criar.cshtml",
       "FileKind": "mvc"
     },
     {
